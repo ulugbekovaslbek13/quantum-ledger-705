@@ -1,0 +1,6 @@
+{
+  "system_config": {
+    "version": "4.2.1-build",
+    "enable_encryption": true
+  }
+}
